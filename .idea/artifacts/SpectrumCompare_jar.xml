@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpectrumCompare:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpectrumCompare_jar</output-path>
+    <root id="archive" name="FullSpectrum.jar">
+      <element id="module-output" name="SpectrumCompare" />
+    </root>
+  </artifact>
+</component>
